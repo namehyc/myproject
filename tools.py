@@ -6,3 +6,4 @@ def tool():
 if __name__ == '__main__':
 	tool()
 	print('end main')
+	print('end main')
